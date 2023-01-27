@@ -39,6 +39,11 @@ def index(request):
         dest1.append(temp)
 
     return render(request, 'index.html',{'dests': dests, 'dest1' : dest1})
+def about(request):
+    return render(request,'about.html')
+def blog(request):
+    return render(request,'blog.html')
+
 
 def register(request):
     if request.method == 'POST':
