@@ -41,12 +41,12 @@ CREATE TABLE `travello_destination` (
 --
 
 INSERT INTO `travello_destination` (`id`, `country`, `img1`, `img2`, `number`) VALUES
-(1, 'Italy', 'pics/1.png', 'pics/mesut-kaya-eOcyhe5-9sQ-unsplash.jpg', 5),
-(2, 'Dubai', 'pics/Dubai_w2bRsjW.jpg', 'pics/images.jfif', 4),
-(3, 'USA', 'pics/1.png', 'pics/banner2.png', 2),
-(4, 'Australia', 'pics/3.png', 'pics/banner3.png', 2),
-(5, 'Europe', 'pics/urop.jpg', 'pics/hero_1.jpg', 5),
-(6, 'Indonesia', 'pics/2.png', 'pics/banner.png', 5);
+(1, 'Chattogram', 'pics/1.png', 'pics/mesut-kaya-eOcyhe5-9sQ-unsplash.jpg', 5),
+(2, 'Dhaka', 'pics/Dubai_w2bRsjW.jpg', 'pics/images.jfif', 4),
+(3, 'Sylhet', 'pics/1.png', 'pics/banner2.png', 2),
+(4, 'Rajshahi', 'pics/3.png', 'pics/banner3.png', 2),
+(5, 'Khulna', 'pics/urop.jpg', 'pics/hero_1.jpg', 5),
+(6, 'Rangpur', 'pics/2.png', 'pics/banner.png', 5);
 
 --
 -- Indexes for dumped tables
