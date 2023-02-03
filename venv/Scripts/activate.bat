@@ -1,4 +1,4 @@
-@set "VIRTUAL_ENV=E:\L-4 T-2\SE_PROJECT\New folder\swproject\venv"
+@set "VIRTUAL_ENV=D:\tools\Tourism software project\tourism\venv"
 
 @if defined _OLD_VIRTUAL_PROMPT (
     @set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
